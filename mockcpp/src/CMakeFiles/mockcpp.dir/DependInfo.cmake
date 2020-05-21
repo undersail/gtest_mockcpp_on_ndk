@@ -1,0 +1,116 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/AfterMatcher.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/AfterMatcher.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/Any.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/Any.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/AnyBase.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/AnyBase.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/AnyCast.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/AnyCast.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/ApiHook.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/ApiHook.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/ApiHookKey.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/ApiHookKey.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/Asserter.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/Asserter.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/AssertionFailedError.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/AssertionFailedError.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/BeforeMatcher.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/BeforeMatcher.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CallerMatcher.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/CallerMatcher.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/ChainableMockMethodContainer.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/ChainableMockMethodContainer.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/ChainableMockMethodCore.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/ChainableMockMethodCore.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/ChainableMockMethodIndexKey.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/ChainableMockMethodIndexKey.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/ChainableMockMethodNameKey.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/ChainableMockMethodNameKey.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/ChainableMockObject.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/ChainableMockObject.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/ChainableMockObjectBase.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/ChainableMockObjectBase.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/ChainingMockHelper.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/ChainingMockHelper.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/ConstraintSet.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/ConstraintSet.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/DecoratedConstraint.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/DecoratedConstraint.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/DefaultMatcher.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/DefaultMatcher.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/DefaultStub.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/DefaultStub.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/DelegatedMethodGetter.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/DelegatedMethodGetter.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/DieStub.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/DieStub.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/Exception.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/Exception.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/ExpectsMatcher.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/ExpectsMatcher.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/Formatter.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/Formatter.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/GlobalMockObject.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/GlobalMockObject.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/HookMockObject.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/HookMockObject.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/IdentityBuilder.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/IdentityBuilder.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/IgnoreResultHandler.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/IgnoreResultHandler.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/IgnoreResultHandlerFactory.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/IgnoreResultHandlerFactory.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/IgnoreReturnStub.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/IgnoreReturnStub.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/InterfaceInfo.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/InterfaceInfo.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/Invocation.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/Invocation.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/InvocationId.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/InvocationId.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/InvocationMockBuilderGetter.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/InvocationMockBuilderGetter.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/InvocationMocker.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/InvocationMocker.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/InvocationMockerSet.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/InvocationMockerSet.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/InvocationTimesMatcher.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/InvocationTimesMatcher.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/InvokedAtLeast.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/InvokedAtLeast.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/InvokedAtMost.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/InvokedAtMost.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/InvokedExactly.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/InvokedExactly.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/InvokedOnce.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/InvokedOnce.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/InvokedTimesMatcher.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/InvokedTimesMatcher.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/IsAnythingHelper.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/IsAnythingHelper.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/IsStringContains.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/IsStringContains.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/IsStringEndWith.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/IsStringEndWith.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/IsStringStartWith.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/IsStringStartWith.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/JmpCode.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/JmpCode.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/JmpOnlyApiHook.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/JmpOnlyApiHook.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/MethodIndiceChecker.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/MethodIndiceChecker.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/MismatchResultHandler.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/MismatchResultHandler.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/MismatchResultHandlerFactory.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/MismatchResultHandlerFactory.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/MockObjectBase.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/MockObjectBase.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/NormalResultHandler.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/NormalResultHandler.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/NormalResultHandlerFactory.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/NormalResultHandlerFactory.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/OutBoundPointer.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/OutBoundPointer.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/PendingMatcher.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/PendingMatcher.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/ProcStub.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/ProcStub.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/RefAny.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/RefAny.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/RepeatStub.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/RepeatStub.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/Result.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/Result.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/ReturnObjectList.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/ReturnObjectList.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/ReturnStub.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/ReturnStub.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/SimpleInvocationRecorder.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/SimpleInvocationRecorder.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/StringConstraint.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/StringConstraint.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/StubContainer.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/StubContainer.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/StubsMatcher.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/StubsMatcher.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/TestFailureMatcher.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/TestFailureMatcher.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/ThenStub.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/ThenStub.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/TypeString.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/TypeString.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/TypelessConstraintAdapter.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/TypelessConstraintAdapter.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/TypelessStubAdapter.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/TypelessStubAdapter.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/UnixCodeModifier.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/UnixCodeModifier.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/VirtualTable.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/VirtualTable.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/VirtualTableUtils.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/VirtualTableUtils.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/VoidResultHandler.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/VoidResultHandler.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/VoidResultHandlerFactory.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/VoidResultHandlerFactory.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/WillStub.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/WillStub.cpp.o"
+  "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/ports/failure/stdexcept_report_failure.cpp" "/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir/ports/failure/stdexcept_report_failure.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "Clang")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "MOCKCPP_ALLOW_MULTI_INHERITANCE=1"
+  "MOCKCPP_MAX_INHERITANCE=2"
+  "MOCKCPP_MAX_PARAMETERS=12"
+  "MOCKCPP_MAX_VTBL_SIZE=20"
+  "MOCKCPP_NO_NAMESPACE=0"
+  "PACKAGE=\"mockcpp\""
+  "PACKAGE_BUGREPORT=\"dev.mockcpp@gmail.com\""
+  "PACKAGE_NAME=\"mockcpp\""
+  "PACKAGE_STRING=\"mockcpp\""
+  "PACKAGE_URL=\"http://code.google.com/p/mockcpp\""
+  "VERSION=\"2.6\""
+  )
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "3rdparty"
+  "include"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

@@ -1,0 +1,15 @@
+/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/CMakeFiles/install/local.dir
+/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/CMakeFiles/install/strip.dir
+/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/CMakeFiles/install.dir
+/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/CMakeFiles/list_install_components.dir
+/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/CMakeFiles/rebuild_cache.dir
+/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/CMakeFiles/edit_cache.dir
+/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/install/local.dir
+/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/install/strip.dir
+/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/install.dir
+/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/list_install_components.dir
+/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/rebuild_cache.dir
+/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/edit_cache.dir
+/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/arg_related_headers.dir
+/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/vtbl_related_headers.dir
+/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/CMakeFiles/mockcpp.dir

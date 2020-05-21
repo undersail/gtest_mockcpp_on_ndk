@@ -1,5 +1,11 @@
+#include "demo.h"
 
 int test()
 {
-    return 0;
+    return stub();
+}
+
+int stub()
+{
+    return 1;
 }

@@ -21,11 +21,12 @@ LOCAL_MODULE := mockcpp
 LOCAL_SRC_FILES := lib/armeabi-v7a/libmockcpp.a
 include $(BUILD_STATIC_LIBRARY)
 
+# Build Demo ut
 include $(CLEAR_VARS)
 LOCAL_MODULE := demout
 LOCAL_C_INCLUDES := \
-	/Users/Jack/Development/android-ndk-r21b/sources/third_party/godsme-mockcpp/include \
-	/Users/Jack/Development/android-ndk-r21b/sources/third_party/godsme-mockcpp/3rdparty
+	/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/include \
+	/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/3rdparty
 
 LOCAL_SRC_FILES := \
 	ut/demo_ut.cpp

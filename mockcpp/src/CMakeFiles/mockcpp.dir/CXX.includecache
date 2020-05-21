@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Jack/Development/android-ndk-r21b/sources/third_party/mockcpp/src/InterfaceInfo.cpp
+cxxabi.h
+-
+mockcpp/mockcpp.h
+-
+mockcpp/Exception.h
+-
+mockcpp/ReportFailure.h
+-
+
+include/mockcpp/Exception.h
+mockcpp/mockcpp.h
+-
+string
+-
+exception
+-
+
+include/mockcpp/ReportFailure.h
+string
+-
+mockcpp/mockcpp.h
+-
+
+include/mockcpp/mockcpp.h
+
