@@ -19,7 +19,7 @@ $(info "Building GTEST...")
 include $(CLEAR_VARS)
 LOCAL_MODULE := mockcpp
 LOCAL_SRC_FILES := lib/armeabi-v7a/libmockcpp.a
-include $(BUILD_STATIC_LIBRARY)
+include $(PREBUILT_STATIC_LIBRARY)
 
 # Build Demo ut
 include $(CLEAR_VARS)
